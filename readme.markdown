@@ -12,18 +12,19 @@ It's being used on zachinglis.com (Excuse the live redesign though.)
 
 ## Usage
 
-$("html").responsiveType();
+    $("html").responsiveType();
 
 Or for customisation, you can input options:
-           $("html").responsiveType(minSize: 62.5,
-                                    maxSize: 82,
-                                    minWidth: 320,
-                                    maxWidth: 1280);
+
+    $("html").responsiveType(minSize: 62.5,
+                             maxSize: 82,
+                             minWidth: 320,
+                             maxWidth: 1280);
 
 
 If you want to get the font smaller the larger your browser (as requested by @nathan_ford), then you can use the reverse option.
-           $("html").respnsiveType(…options…
-                                   reverse: true);
+    $("html").respnsiveType(…options…
+                             reverse: true);
 
 
 
