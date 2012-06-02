@@ -1,5 +1,4 @@
-
-* Responsive Type jQuery Plugin
+# Responsive Type jQuery Plugin
 
 Version 1.1
 Updated 31/05/2012
@@ -7,7 +6,13 @@ Updated 31/05/2012
 Copyright (c) 2012 Zach Inglis   (@zachinglis)
                    Laura Sanders (@teawithlemon)
 
-Usage: $("html").responsiveType();
+## Demo
+
+It's being used on zachinglis.com (Excuse the live redesign though.)
+
+## Usage
+
+$("html").responsiveType();
 
 Or for customisation, you can input options:
            $("html").responsiveType(minSize: 62.5,
