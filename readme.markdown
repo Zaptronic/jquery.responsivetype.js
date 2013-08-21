@@ -6,9 +6,6 @@ Updated 31/05/2012
 Copyright (c) 2012 Zach Inglis   (@zachinglis)
                    Laura Sanders (@teawithlemon)
 
-## Demo
-
-It's being used on zachinglis.com (Excuse the live redesign though.)
 
 ## Usage
 
